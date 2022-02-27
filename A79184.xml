@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration du Roy a tous ses bons sujets, touchant les motifs &amp; les raisons qui l'ont porté à congedier les deux derniers Parlements. Publiée par commandement de Sa Majesté</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79184</idno>
+            <idno type="STC">Wing C2963A</idno>
+            <idno type="STC">ESTC R231310</idno>
+            <idno type="EEBO-CITATION">99899852</idno>
+            <idno type="PROQUEST">99899852</idno>
+            <idno type="VID">170787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2457:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaration du Roy a tous ses bons sujets, touchant les motifs &amp; les raisons qui l'ont porté à congedier les deux derniers Parlements. Publiée par commandement de Sa Majesté</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>par les assignés de Jean Bill, Thomas Nieucomb, &amp; Henry Hills, imprimeurs du Roy,</publisher>
+                  <pubPlace>[A Londres :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of "His Majesties declaration to all his loving subjects, touching the causes &amp; reasons that moved him to dissolve the two last Parliaments." (Wing C3000).</note>
+                  <note>Dated at end: Whitehal, le 8e d'Avril 1681.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="royal_declaration">
+            <pb facs="tcp:170787:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>DECLARATION DU ROY A tous ſes Bons Sujets, Touchant les Motifs &amp; les Raiſons Qui l'ont porté à Congedier les deux derniers PARLEMENTS.</head>
+            <p>Publiée par Commandement de Sa Majeſté.</p>
+            <p>CE n'a eſté qu'avec un extreme déplaiſir que Nous avons eſté obligés de Con<g ref="char:EOLhyphen"/>gedier les deux derniers Parlements, avant que la Convocation que Nous en avions faite, euſt eſté plus utille à noſtre Peuple; Mais ayant fait de noſtre coſté ce que Nous devions par les occaſions que Nous avons données de pour<g ref="char:EOLhyphen"/>voir à leur avantage, on ne peut pas avec Juſtice Nous imputer, que Ie ſuccez n'ait pas repondu à noſtre attente.</p>
+            <p>Nous ne ſaurions Nous empeſcher de declarer ici les Cauſes particulieres de noſtre mecontentement, les quelles à l'ouverture du dernier Parlement Nous leur recommen<g ref="char:EOLhyphen"/>daſmes d'avoir ſoin d'éviter, eſperant que Nous n'aurions plus ſujet de Nous en ſouvenir.</p>
+            <pb n="2" facs="tcp:170787:2" rendition="simple:additions"/>
+            <p> Nous fiſmes l'ouverture du dernier Parlement tenu à Weſtminſter par un diſcours rem<g ref="char:EOLhyphen"/>pli de la bonne volonté &amp; diſpoſition que Nous avions de faire ce que nos Sujets atten<g ref="char:EOLhyphen"/>doient de Nous, &amp; de les r'aſſurer contre toutes leurs juſtes craintes, y ajoutant tout ce que la conſideration importante de conſerver la Religion établie, la liberté, les biens &amp; droits de nos Sujets, &amp; celle de maintenir &amp; de deffendre nos Voiſins &amp; nos Alliez, Nous inſpiroit ou pouvoit en aucune maniere éxiger de Nous.</p>
+            <p>Et Nous déclarons ſolemnellement que noſtre intention eſtoit de donner noſtre con<g ref="char:EOLhyphen"/>ſentement, à tout ce qui nous auroit eſté propoſé à ces fins, pourveuque cela n'euſt point renverſé les fondements du Gouvernement.</p>
+            <p>Nous leur demandaſmes de maintenir les Alliances que Nous avions faittes pour con<g ref="char:EOLhyphen"/>ſerver la Paix generalle de la Chrétienté; Nous leur recommendaſmes d'éxaminer plus à fonds la Conſpiration; Nous demandaſmes leur advis &amp; leur aſſiſtance pour la conſer<g ref="char:EOLhyphen"/>vation de Tanger; Nous leur offriſmes de concourir avec eux dans tous les moyens qui pouroient eſtre propoſes pour la ſureté de la Religion Proteſtante, pourveuque la Suc<g ref="char:EOLhyphen"/>ceſſion de la Couronne fut conſervée par ces meſmes moyens dans ſon veritable &amp; legitime cours.</p>
+            <p>La Chambre des Communes ne répondit à toutes ces choſes que d'une maniere fort éloignée de noſtre attente; On nous fit des Addreſſes qui ſembloient plus toſt des Remon<g ref="char:EOLhyphen"/>ſtrances que des réponſes; On ne voyoit que des Ordres arbitraires pour faire mettre nos Sujets en arreſt, pour des choſes qui ne regardoient en aucune maniere les Privileges du Parlement: Que des Reſultats tout a fait extraordinaires &amp; contre les Loix, par les quels on declaroit pluſieurs Perſonnes de haute qualité Ennemis du Roy &amp; de l'Eſtat, ſans aucun ordre ny procedure de Juſtice, ſans eſtre ouys en leurs deffences, &amp; meſmes ſans produire aucune preuve contr'eux.</p>
+            <p>Outre ces Procedez, voicy ce qu'ils reſolurent le 7 du Mois de Janvier dernier.
+<q>
+                  <p>Il a eſté reſolu que quiconque preſtera, ou fera preſter par voye d'avance, aucun Argent ſur les Branches du Revenu du Roy, provenant de la Douänne, de l'Ex<g ref="char:EOLhyphen"/>ciſe, ou de l'Impoſt mis ſur les cheminées, ſera tenu &amp; reputé empeſcher les Seances de Parlements, &amp; en ſera reſponſable en Parlement.</p>
+                  <p>Il a eſté reſolu que quiconque achetera aucune aſſignation faite ſur aucune partie du Revenu du Roy, &amp; quiconque payera telle aſſignation qui ſera cy apres donnée, ſera tenu &amp; reputé comme empeſchant les Seances de Parlements, &amp; en répondra en Parlement.</p>
+               </q>
+            </p>
+            <p>Ces Reſultats au lieu de Nous ayder à ſoutenir nos Alliez, ou de Nous mettre en eſtat de conſerver Tanger, tendoient plus toſt à Nous mettre dans l'impuiſſance de rien faire pour l'un ny pour l'autre, ſoit par noſtre Revenu ou par noſtre Credit: Nous expoſant par la non ſeulement à tous les dangers qui pouvoient ſurvenir au dedans &amp; au dehors du Royaume, mais ayant auſſi pour but de Nous priver de toutes ſortes de moyens de main<g ref="char:EOLhyphen"/>tenir &amp; de conſerver le Gouvernement, &amp; de Nous reduire dans un eſtat plus denué de ſecours que le moindre de nos Sujets.</p>
+            <p>Le 10 dumeſme Mois il fut encore arreſté dans la Chambre des Communes ce que s'enſuit.
+<q>Il a eſté reſolu que e'eſt l'opinion de eette Chambre que de faire proceder contre les Proteſtants Nonconformiſtes ſelon les Loix penalles, eſt dans cette conjoncture un Grief aux Sujets, &amp; que par la l'intereſt des Proteſtants ſeroit affoibly, le Pa<g ref="char:EOLhyphen"/>piſme encouragé, &amp; la Paix du Royaume miſe en danger.</q>
+            </p>
+            <p>Par ce Reſultat cette Chambre ſe donnoit &amp; s'attribuoit le pouvoir de la ſuſpencion des Actes de Parlement, ſans avoir aucun égard aux Loix établies, nonobſtant que nos Juges &amp; nos Officiers de Juſtice ne peuvent ny ne doivent pas, quelques égards qu'ils puiſſent avoir pour les Reſultats de l'une des Chambres du Parlement, ou de toutes les deux, vio<g ref="char:EOLhyphen"/>ler le ſerment qu'ils ont preſté d'éxecuter nos Loix ponctuellement &amp; ſans partialité, les quelles l'experience a fait voir eſtre le meilleur appuy tant de l'intereſt de la Religion Proteſtante, que de la Paix du Royaume.</p>
+            <p>Voila une partie du procedé irregulier &amp; inſoutenable de la Chambre des Communes de ce Parlement la, &amp; ce qui Nous obligea de le congedier.</p>
+            <p>Nous n'euſmes pas plus toſt congedié ce Parlement que nous en fiſmes inceſſamment aſſembler un autre à Oxford, à l'ouverture du quel Nous jugeaſmes à propos de les aver<g ref="char:EOLhyphen"/>tir
+<pb n="3" facs="tcp:170787:2" rendition="simple:additions"/>des fautes du premier, dans l'eſperance de prevenir de ſemblables deportements. Nous les requiſmes de prendre les Loix du Païs pour leur regle, comme Nous le faiſions de no<g ref="char:EOLhyphen"/>ſtre coſté, &amp; comme auſſi Nous avons reſolu de faire. Nous ajoutaſmes de plus que Nous ne pouvions pas Nous déſiſter, ny rien relaſcher de ce que Nous avions cy devant &amp; ſi ſou<g ref="char:EOLhyphen"/>vent declaré touchant la Succeſſion: Mais que pour eloigner &amp; oſter toutes les craintes &amp; apprehenſions que l'on pouroit raiſonablement avoir à l'occaſion de la poſſibilité de l'avenement d'un Succeſſeur Papiſte à la Couronne, ſi on pouvoit trouver quelques moy<g ref="char:EOLhyphen"/>ens pour faire qu'en ce cas la l'adminiſtration du Gouvernement demeuraſt en des mains Proteſtantes, Nous eſtions preſts à recevoir tous les expedients par leſquels la Religion établie pouroit eſtre conſervée, &amp; qui auſſi ne deſtruiroient pas la Monarchie.</p>
+            <p>Mais contre ce que Nous nous eſtions promis, &amp; les offres que Nous avions faites, Nous vimes qu'on ne vouloit admettre aucun antre expedient que celuy d'une entire excluſion, que Nous avions ſi ſouvent declaré eſtre une choſe qui ſelon noſtre Jugement Royal, Nous touchoit de ſi prez en noſtre honneur, en noſtre Juſtice &amp; en noſtre Conſcience, qué Nous ne pouvions jamais y conſentir. Enfin Nous ne ſaurions apres les triſtes &amp; funeſtes effects que Nous avons reſſentis des dernieres Guerres civilles, qui ont eſté cauſe du Meurtre du Roy noſtre Pere de glorieuſe memoire, &amp; ruiné la Monarchie, conſentir à une Loy qui fera naiſtre une Guerre tout a fait cruelle &amp; dénaturée, ou qui du moins impoſera la neceſſité d'entretenir une Armée ſur pied, pour la Conſervation du Gouverne<g ref="char:EOLhyphen"/>ment &amp; de la Paix du Royaume.</p>
+            <p>Et Nous avons ſujet de croire par ce qui ſe paſſa au dernier Parlement tenu à Weſtminſter, que ſi l'on euſt pû Nous perſuader à conſentir à un Bill d'excluſion, on avoit deſſein de n'en pas demeurer la, mais de paſſer plus avant &amp; d'entreprendre meſmes de faire des à preſent, quelques changements de tres grande conſequence.</p>
+            <p>L'Affaire de Fitz-Harris accuſé du Crime de leze Majeſté au premier chef par la Cham<g ref="char:EOLhyphen"/>bre des Communes, &amp; qui fut renvoyée par celle des Seigneurs au Cours ordinaire de la Loy, fut tout d'un coup portée à une ſi grande extremité par les Reſultats de ia Cham<g ref="char:EOLhyphen"/>dre des Communes du 26 du Mois de Mars dernier, qu'il n'eſtoit plus poſſible que les deux Chambres en vinſſent à un accommodement.</p>
+            <p>Ces Reſultats eſtoient conçeus en ces termes.</p>
+            <q>
+               <floatingText xml:lang="fre">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Du Samedy 26 Mars apres midy.</date>
+                           </dateline>
+                        </opener>
+                        <p>Il a eſté reſolu que e'eſt le droit iudubitable des Communes aſſemblés en Parle<g ref="char:EOLhyphen"/>ment, d'accuſer par devant la Chambre haute ſoit de Trahiſon ou d'aucun autre Crime aucun Pair du Royaume, ou aucune Perſonne que ce ſoit dutiers Eſtat, &amp; que le refus de la ditte Chambre de proceder en Parlement ſur une telle Accuſation, eſt un refus de Justice, &amp; une violation de la Conſtitution des Parlements.</p>
+                        <p>Il a eſté reſolu que dans l'affaire d'Edouärd Fitz-Harris accuſé par les Commu<g ref="char:EOLhyphen"/>nes de Haute Trahiſon par devant les Seigneurs, declarant qu'ils produiroient en tems &amp; lieu des Articles des faits particuliers, le Reſultat des Seigneurs portant que l'on procederoit contre le dit Fitz-Harris ſelon le Cours ordinaire de la Loy Commune, &amp; non par voye d'Accuſation intentée par la Chambre des Communes, eſt dans cette conjoncture un refus de Juſtice, une violation de la Conſtitution des Par<g ref="char:EOLhyphen"/>lements, &amp; un Obſtacle à la découverte plus ample &amp; plus particuliere de la Con<g ref="char:EOLhyphen"/>ſpiration des Papiſtes, &amp; meſmes une choſe fort dangereuſe pour la Perſonne du Roy, &amp; pour la Religion Proteſtante.</p>
+                        <p>Il a eſté reſolu que ſi aucune Cour ſubalterne procede contre ledit Edouärd Fitz-Harris, ou contre aucune autre Perſonne accuſée en Parlement des meſmes Crimes dont luy on iceux ſont accuſez, le Privilege du Parlement ſeroit par la hautemen<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> enfraint &amp; violé.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Il Nous fut extremement ſenſible de voir que l'on ſe ſervoit d'une Accuſation faite en Parlement, pour retarder un Procés que Nous avions ordonné eſtre fait à un Papiſte no<g ref="char:EOLhyphen"/>toirement connu pour tel, &amp; de plus accuſé de Trahiſons tramées contre Nous, d'une na<g ref="char:EOLhyphen"/>ture tout a fait extraordinaire: En quoy la Chambre des Seigneurs s'eſt veritablement fait Juſtice, en refuſant comme elle a fait de favoriſet ou approuver un tel procedé.</p>
+            <pb n="4" facs="tcp:170787:3" rendition="simple:additions"/>
+            <p> Mais lorſque l'une des deux Chambres s'emporte juſqu'à conclure, que les procedez de l'autre ſont un refus de Juſtice, une violation de la Conſtitution des Parlements, &amp; dan<g ref="char:EOLhyphen"/>gereux à noſtre Perſonne &amp; à la Religion Proteſtante, ſans que prealablement il y ait eu des Conferences entr'elles pour examiner ſur quels fondements on en a agy de cette maniere, &amp; juſqu'ou ces procedez peuvent eſtre juſtiſiez, cela les rend incapables de traiter enſemble, &amp; doit par conſequent eſtre conſideré comme la derniere violation qui ſe puiſſe faire de la Conſtitution des Parlements.</p>
+            <p>Les choſes eſtants dans cet eſtat la, &amp; y ayant apparence que la continuation de la Seance produiroit tous les jours de nouveaux ſujets d'aigreur &amp; d'emportement entre les deux Chambres, ce qui ne repondroit pas aux fins publiques pour les quelles ce Parle<g ref="char:EOLhyphen"/>ment avoit eſté convoqué, Nous nous ſommes veus obligés de le congedier.</p>
+            <p>Mais apres tout cela que la malice inquiette &amp; turbulente des Mal-intentionnés, qui travaillent à empoiſonner l'eſprit de nos Peuples, les uns y eſtants portés par l'enteſte<g ref="char:EOLhyphen"/>ment qu'ils ont encore pour leurs anciens &amp; chers principes Republicains, les autres par la rage &amp; le deſpit d'avoir manqué dans les deſſeins particuliers qu'ils avoient formés pour s'élever &amp; aſſouvir leur ambition, que cette malice enfin ne perſuade pas à nos bons ſujets que Nous ne voulons plus nous ſervir de Parlements; Car Nous declarons encore que quelques irregularitez que des Parlements commettent, cela neanmoins ne nous en rebutera pas, les regardants comme les meilleurs remedes que l'on puiſſe trou<g ref="char:EOLhyphen"/>ver pour guerir les maladies de l'Eſtat, &amp; comme les ſeuls moyens de conſerver à la Monarchie, cette reputation &amp; ce reſpect qu'on doit avoir pour elle tant an dedans qu'au dehors du Royaume.</p>
+            <p>C'eſt pourquoy nous avons reſolu, avec la Grace de Dieu, d'avoir frequemment des Parlements, &amp; de faire noſtre poſſible, ſoit dans le tems qu'ils ſeront aſſemblez, ſoit lorſqu'ils ne le ſeront pas, pour extirper le Papiſme, pour redreſſer tous les Griefs de nos bons Sujets, &amp; pour gouverner en toutes choſes ſelon les Loix du Royaume.</p>
+            <p>Nous eſperons auſſi qu'un peu de tems ouvrira ſi bien les yeux de tous nos bons Su<g ref="char:EOLhyphen"/>jets, qu'à la premiere Aſſemblée de Parlement, on achevera d'eſtablir la paix &amp; la tran<g ref="char:EOLhyphen"/>quilité dont on trouvera que l'Eſtat ou l'Egliſe auront beſoin.</p>
+            <p>Et comme Nous y contribuerons de tout noſtre pouvoir, auſſi Nous aſſurons nous que Nous y ſerons aſſiſtés par la fidelité &amp; la bonne affection de tous ceux qui conſiderent le commencement &amp; les progrez des derniers troubles &amp; deſordres, &amp; qui ſouhaittent d'empeſcher que leur Patrie n'y retombe; Et qui meſmes n'auront pas oublié, que la Religion, la liberté, leurs biens &amp; droits furent perdus &amp; ruinés, quand une fois la Mo<g ref="char:EOLhyphen"/>narchie fut abbatue, &amp; qu'ils ne purent jamais eſtre remis dans leur premier eſtat, qu'<g ref="char:EOLhyphen"/>elle ne fuſt premierement reſtablie.</p>
+            <closer>
+               <dateline>Donné en Noſtre Cour de Whitehal, <date>le 8<hi rend="sup">e</hi> jour du Mois d'Avril 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>A la Cour de Whitehal, le 8<hi rend="sup">e</hi> d'Avril 1681.</date>
+               </dateline>
+            </opener>
+            <p>IL a eſté ce jourdhuy ordonné par le Roy eſtant en ſon Conſeil, que cette De<g ref="char:EOLhyphen"/>claration ſoit inceſſamment imprimée &amp; publiée, &amp; leuë dans toutes les Egliſes &amp; Chappelles de ce Royaume.</p>
+            <closer>
+               <signed>FRANCOIS GWYN.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>A LONDRES:</hi> Par les Aſſignés de Jean Bill, Thomas Nieucomb, &amp; Henry Hills, Imprimeurs du Roy. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
